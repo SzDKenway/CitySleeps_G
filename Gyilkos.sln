@@ -1,0 +1,37 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.11.35303.130
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Gyilkos", "Gyilkos.csproj", "{6FA55473-2CDF-4048-9438-0447E3AC1C5B}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Game", "..\Game\Game.csproj", "{88F85DEC-6164-4B92-95CE-684DB50218B6}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Set_Form", "..\Set_Form\Set_Form.csproj", "{0FFEE7B3-3B12-49EC-B176-D12C2EAB9775}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{6FA55473-2CDF-4048-9438-0447E3AC1C5B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6FA55473-2CDF-4048-9438-0447E3AC1C5B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{6FA55473-2CDF-4048-9438-0447E3AC1C5B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{6FA55473-2CDF-4048-9438-0447E3AC1C5B}.Release|Any CPU.Build.0 = Release|Any CPU
+		{88F85DEC-6164-4B92-95CE-684DB50218B6}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{88F85DEC-6164-4B92-95CE-684DB50218B6}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{88F85DEC-6164-4B92-95CE-684DB50218B6}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{88F85DEC-6164-4B92-95CE-684DB50218B6}.Release|Any CPU.Build.0 = Release|Any CPU
+		{0FFEE7B3-3B12-49EC-B176-D12C2EAB9775}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0FFEE7B3-3B12-49EC-B176-D12C2EAB9775}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0FFEE7B3-3B12-49EC-B176-D12C2EAB9775}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0FFEE7B3-3B12-49EC-B176-D12C2EAB9775}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {37ED3030-4537-42C3-8124-740E653A540E}
+	EndGlobalSection
+EndGlobal
